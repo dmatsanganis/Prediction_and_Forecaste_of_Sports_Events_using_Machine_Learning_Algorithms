@@ -1,0 +1,40 @@
+Οι βιβλιογραφικές πηγές που χρησιμοποιήθηκαν στην εφαρμογή είναι οι ακόλουθες :
+
+1.	Διαχείριση Δεδομένων από την Kaggle
+(https://www.kaggle.com/docs/api)
+Τελευταία Προσπέλαση 08/01/2021
+
+2.	Shuffle Δεδομένων για καλύτερη ακρίβεια αποτελεσμάτων. (https://datascience.stackexchange.com/questions/24511/why-should-the-data-be-shuffled-for-machine-learning-tasks)
+Τελευταία Προσπέλαση 13/02/2021
+
+3.	Δημιουργία Πολυστρωματικού Νευρωνικού Δικτύου.
+(https://towardsdatascience.com/building-neural-network-from-scratch-9c88535bf8e9)
+Τελευταία Προσπέλαση 28/01/2021
+
+4.	Δημιουργία Γραφημάτων αναλόγως το ερώτημα. 
+Documentation βιβλιοθήκης matplotlib.
+(https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)
+Τελευταία Προσπέλαση 17/02/2021
+
+5.	Δημιουργία Γραφημάτων τύπου Bar Chart (ερωτήματα 1 & 2 – γραφήματα για τις 4 στοιχηματικές)
+(https://datatofish.com/bar-chart-python-matplotlib/) 
+Τελευταία Προσπέλαση 20/02/2021
+
+6.	Υλοποίηση γραφημάτων με πολλαπλά δεδομένα
+(https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)
+Τελευταία Προσπέλαση 20/02/2021
+
+7.	Δημιουργία Γραφημάτων τύπου Ιστογράμματος (γραφήματα συνολικής ευστοχίας)
+(https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/) 
+Τελευταία Προσπέλαση 25/02/2021
+
+8.	Υλοποίηση μέσω της tensorflow
+(https://www.tensorflow.org/api_docs/python/tf/keras)
+Τελευταία Προσπέλαση 15/02/2021
+
+9.	Υλοποίηση μέσω της keras
+(http://man.hubwiz.com/docset/Keras.docset/Contents/Resources/Documents/index.html)
+Τελευταία Προσπέλαση 16/02/2021
+
+
+
