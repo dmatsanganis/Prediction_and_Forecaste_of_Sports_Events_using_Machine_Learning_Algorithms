@@ -1,0 +1,2 @@
+You can download the used SQL database from the following link:
+https://www.kaggle.com/hugomathien/soccer
