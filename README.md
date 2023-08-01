@@ -11,7 +11,7 @@ The Least Mean Squares (LMS) algorithm is used to implement a discriminant funct
 The Least Squares (LS) algorithm is used to implement a discriminant function for each betting company. Again, the aim is to identify the betting company whose predictions yield the highest classification accuracy.
 
 3. **Multilayer Neural Network**: 
-A multilayer neural network is used to implement a discriminant function of the form \(g(\Phi(m)): \mathbb{R}^{28} \rightarrow \{H, D, A\}\), where \(\Phi(m) \in \mathbb{R}^{28}\) corresponds to the complete feature vector of each match.
+A multilayer neural network is used to implement a discriminant function of the form that corresponds to the complete feature vector of each match.
 
 In addition, the project employs 10-fold cross-validation to assess the accuracy of the classifiers during both training and testing phases.
 
